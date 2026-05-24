@@ -1,6 +1,9 @@
-This software needs python 3.x to work.
+  This software needs python 3.x to work.
 
-You have to install pynput library to get it work.
-You can install it by this command: pip install pynput
-If you have MacOS or Linux, paste it to Terminal.
-If you have Windows, paste it to Command line (cmd).
+  You have to install pynput library to get it work.
+
+  You can install it by this command: pip install pynput
+
+  If you have MacOS or Linux, paste it to Terminal.
+
+  If you have Windows, paste it to Command line (cmd).
