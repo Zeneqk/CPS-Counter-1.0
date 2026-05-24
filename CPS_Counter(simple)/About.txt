@@ -1,0 +1,10 @@
+This is a simple python script that shows you how many clicks per second on your mouse do you make.
+It covers any window that is not fullscreened.
+It looks like this:
+
+_______________________
+|CPS               -  X|
+|                      |
+|    LPM: x | PPM: y   |
+|                      |
+________________________
